@@ -1,0 +1,6 @@
+04/03/2018#11:12:18pm#LOGINPAGE#::1#Username or password is incorrect
+04/03/2018#11:12:26pm#ACCOUNTPAGE#::1#Unauthorised user
+12/03/2018#01:04:38am#REGISTRATIONPAGE#::1#The firstname, lastname, username, and password conventions were not followed
+12/03/2018#01:07:48am#DATABASE#::1#Connection failed: No connection could be made because the target machine actively refused it.
+12/03/2018#01:09:57am#REGISTRATIONPAGE#::1#Account already exists
+12/03/2018#01:11:57am#LOGINPAGE#::1#Username or password is incorrect
